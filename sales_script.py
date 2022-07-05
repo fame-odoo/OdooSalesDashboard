@@ -9,7 +9,7 @@ from xmlrpc import client
 HOST = "www.odoo.com" # Host url name
 db =  "openerp"  # Name of the database
 USER = "kusn" # User Name to login database
-password = "7f25f13bcb3efa3760757e25ff3ef820e7ad58ab" # Password to login database
+password = "" # Password to login database
 url = 'https://%s/xmlrpc/2/' % (HOST)
 common_proxy = client.ServerProxy(url+'common')
 object_proxy = client.ServerProxy(url+'object')
