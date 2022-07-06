@@ -18,8 +18,8 @@ user_ids = []
 records = object_proxy.execute_kw(db, uid, password, 'sale.order', 'read_group', [[('user_id','in',ids),('state','=','sale')], ['user_id','amount_total'],['user_id']],{"offset":0 ,"orderby":'amount_total desc', "lazy":True,"limit":10})
 
 # print out the result to confirm it's right
-for rec in record:
-    print(rec['user_id'],rec['amount_total'])
+for record in records:
+    print(record['user_id'],record['amount_total'])
 
 # save user_id and amount_total to a csv file
 with open('top10salesperson.csv', 'w') as csvfile:
