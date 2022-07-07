@@ -21,6 +21,8 @@ Link: https://github.com/creativetimofficial/light-bootstrap-dashboard-react
 
 Demo: https://demos.creative-tim.com/light-bootstrap-dashboard-react/?_ga=2.196188972.169141002.1657206442-578624927.1657206442#/admin/dashboard
 
+![creativetim](https://github.com/fame-odoo/OdooSalesDashboard/blob/CSD-Ideas/img/creative-tim.png?raw=true)
+
 Comment : is react based, open source.
 
 ## Creative Tim - Material Dashboard Pro 
