@@ -44,3 +44,13 @@ Demo: https://tabler-react.com/
 ![](https://github.com/fame-odoo/OdooSalesDashboard/blob/CSD-Ideas/img/iShot_2022-07-07_11.35.20.png?raw=true)
 
 Comment: Open Source, Easy to use
+
+##  React Material Admin Full
+
+Link: https://github.com/flatlogic/react-material-admin
+
+Demo: https://flatlogic.com/templates/react-material-admin-full/demo
+
+![material-admin](https://user-images.githubusercontent.com/24964748/55800639-df780300-5adc-11e9-84b7-7c2437088516.png)
+
+Comment: Beautiful Charts and animation
