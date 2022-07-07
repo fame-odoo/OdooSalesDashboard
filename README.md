@@ -1,6 +1,4 @@
-[TOC]
-
-# CSD Ideas
+# Customer Success Dashboard Ideas
 
 ## databox Customer Success Dashboard
 
