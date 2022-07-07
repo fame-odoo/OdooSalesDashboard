@@ -31,7 +31,7 @@ Link: https://github.com/creativetimofficial/ct-material-dashboard-pro-react#ver
 
 Demo: https://demos.creative-tim.com/material-dashboard-pro-react
 
-![](https://github.com/fame-odoo/OdooSalesDashboard/blob/CSD-Ideas/img/iShot_2022-07-07_11.21.15?raw=true)
+![](https://github.com/fame-odoo/OdooSalesDashboard/blob/CSD-Ideas/img/iShot_2022-07-07_11.21.15.png?raw=true)
 
 Comment: Has typescript version as well
 
