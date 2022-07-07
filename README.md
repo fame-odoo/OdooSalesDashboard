@@ -24,3 +24,11 @@ Demo: https://demos.creative-tim.com/light-bootstrap-dashboard-react/?_ga=2.1961
 ![creativetim](https://github.com/fame-odoo/OdooSalesDashboard/blob/CSD-Ideas/img/creative-tim.png?raw=true)
 
 Comment : is react based, open source.
+
+## Creative Tim Now UI 
+
+Link: https://github.com/creativetimofficial/now-ui-kit-react
+
+Demo: https://demos.creative-tim.com/now-ui-dashboard-react/?_ga=2.207607955.169141002.1657206442-578624927.1657206442#/admin/dashboard
+
+![creativetimnow](https://github.com/fame-odoo/OdooSalesDashboard/blob/CSD-Ideas/img/creative-tim-now.png?raw=true)
