@@ -15,7 +15,7 @@ Link: https://designrevision.com/downloads/shards-dashboard-pro-react/
 ![shardsdashboard](https://designrevision.com/app/uploads/edd/shards-dashboard-pro-react-feat-img-1.jpg)
 
 
-## Creative Tim
+## Creative Tim - Light Bootstrap Dashboard
 
 Link: https://github.com/creativetimofficial/light-bootstrap-dashboard-react
 
@@ -32,3 +32,23 @@ Link: https://github.com/creativetimofficial/now-ui-kit-react
 Demo: https://demos.creative-tim.com/now-ui-dashboard-react/?_ga=2.207607955.169141002.1657206442-578624927.1657206442#/admin/dashboard
 
 ![creativetimnow](https://github.com/fame-odoo/OdooSalesDashboard/blob/CSD-Ideas/img/creative-tim-now.png?raw=true)
+
+## Creative Tim - Material Dashboard Pro 
+
+Link: https://github.com/creativetimofficial/ct-material-dashboard-pro-react#versions
+
+Demo: https://demos.creative-tim.com/material-dashboard-pro-react
+
+![](https://github.com/fame-odoo/OdooSalesDashboard/blob/CSD-Ideas/img/iShot_2022-07-07_11.21.15.png?raw=true)
+
+Comment: Has typescript version as well
+
+## Tabler-React Version 2
+
+Link: https://github.com/tabler/tabler-react/tree/version-2
+
+Demo: https://tabler-react.com/
+
+![](https://github.com/fame-odoo/OdooSalesDashboard/blob/CSD-Ideas/img/iShot_2022-07-07_11.35.20.png?raw=true)
+
+Comment: Open Source, Easy to use
