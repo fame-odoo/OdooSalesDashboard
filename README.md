@@ -1,2 +1,2 @@
 # OdooSalesDashboard
-Odoo Sales Dashboard Internship Task
+POCs to retrieve data 
