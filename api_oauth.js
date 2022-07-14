@@ -84,10 +84,21 @@ function getNewToken(oAuth2Client, callback) {
   let overall_data_every_year = {}
   for(var year of Object.keys(years)){
     let yearly_data = await makeapicall(years,year,sheets)
-    console.log(yearly_data)
+    // console.log(yearly_data)
+    
     overall_data_every_year[year]=yearly_data
+    
 }
-console.log(overall_data_every_year)
+var jsonData = JSON.stringify(overall_data_every_year);
+console.log(jsonData)
+fs.writeFile('overall_sales_data.json', jsonData, 'utf8', write_callback);
+// console.log(overall_data_every_year)
+}
+const write_callback=(err,res)=>{
+  if(err){
+    console.log("error writing to file",err)
+  }
+  return res
 }
 async function makeapicall(years,year,sheets){
 
