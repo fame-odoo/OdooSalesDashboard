@@ -1,2 +1,2 @@
-# OdooSalesDashboard
-Odoo Sales Dashboard Internship Task
+# OdooSalesDashboard Docs
+Related files using on the Odoo Dashboard Documentation Website.
